@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/physiker-referat66/static/css/main.fe9a2c72.chunk.css",
+    "main.js": "/physiker-referat66/static/js/main.8ba17d4c.chunk.js",
+    "main.js.map": "/physiker-referat66/static/js/main.8ba17d4c.chunk.js.map",
+    "runtime-main.js": "/physiker-referat66/static/js/runtime-main.a97542a1.js",
+    "runtime-main.js.map": "/physiker-referat66/static/js/runtime-main.a97542a1.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/physiker-referat66/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.786c548a.chunk.js": "/physiker-referat66/static/js/2.786c548a.chunk.js",
+    "static/js/2.786c548a.chunk.js.map": "/physiker-referat66/static/js/2.786c548a.chunk.js.map",
+    "static/js/3.32601845.chunk.js": "/physiker-referat66/static/js/3.32601845.chunk.js",
+    "static/js/3.32601845.chunk.js.map": "/physiker-referat66/static/js/3.32601845.chunk.js.map",
+    "index.html": "/physiker-referat66/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/physiker-referat66/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.fe9a2c72.chunk.css.map": "/physiker-referat66/static/css/main.fe9a2c72.chunk.css.map",
+    "static/js/2.786c548a.chunk.js.LICENSE.txt": "/physiker-referat66/static/js/2.786c548a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a97542a1.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.786c548a.chunk.js",
+    "static/css/main.fe9a2c72.chunk.css",
+    "static/js/main.8ba17d4c.chunk.js"
+  ]
+}
